@@ -1,6 +1,10 @@
 # Password Generator Assignment 
 
+
+
 ## Details of the Assignment
+
+
 
 ## Assigment Acceptance Criteria
 
@@ -25,3 +29,5 @@ THEN the password is either displayed in an alert or written to the page
 ## Picture of the Website
 
 ## Link for the Website
+
+
