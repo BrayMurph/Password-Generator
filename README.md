@@ -3,7 +3,7 @@
 
 
 ## Details of the Assignment
-
+I have made a password generator in which it has prompts in which the user can choose how many characters they want in their password, from 8 to 128 character. They will be able to then choose lowercase letters, uppercase letters, special characters, and numbers in their password if they so choose. Afterwards the password will then be randomly generated as in the photo of the website shown below. 
 
 
 ## Assigment Acceptance Criteria
@@ -28,6 +28,9 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Picture of the Website
 
+![Password-Generator](./assets/images/22222222.JPG)
+
 ## Link for the Website
 
+[Link to the Application](https://braymurph.github.io/Password-Generator/)
 
